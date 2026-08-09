@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 🔭 I’m currently working on  <br>Practicing Python basics through conditional problems, building structured project skeletons.<br><br>🕴 I’m looking to collaborate on  <br>Beginner-friendly Python applications, and automation tools.<br><br>🤝 I’m looking for help with  <br>Improving debugging skills, strengthening Python fundamentals, and learning best practices for project planning.<br><br>🌱 I’m currently learning  <br>Python (core concepts), FastAPI, and AI engineering fundamentals.<br><br>💬 Ask me about  <br>Python project skeletons, conditional problem-solving.<br><br>⚡ Fun fact  <br>I’m pursuing my BCA online while building my roadmap to become an AI Engineer — combining theory with hands-on coding practice every day.
 
