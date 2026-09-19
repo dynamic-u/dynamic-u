@@ -12,5 +12,4 @@
 ## Projects
 
 ---
-## Contact
-- GitHub: https://github.com/dynamic-u
+
